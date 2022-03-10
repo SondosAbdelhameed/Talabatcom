@@ -2,14 +2,26 @@
 
 online food ordering service that helps customers find restaurants in their area, filter by cuisine, browse menus and place their orders with an option of online payment or cash on received. We offer our services through mobile apps for iPhone and Android.
 
+Backend Programming
+PHP,
+Laravel framwork,
+MYSQL Database,
+API's
+
+Frontend Technology
+HTML, CSS, JavaScript
 
 Main features of Admin Dashboard
 
-Customer Management
-Restaurant Management
-Categories
-Food Menu
-CMS
+1- Customer Management
+
+2- Restaurant Management
+
+3- Categories
+
+4- Food Menu
+
+5- CMS
 
 
 
